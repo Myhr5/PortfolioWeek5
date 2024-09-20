@@ -102,6 +102,10 @@ p {
     margin: 30px;
 }
 
+#weather-image {
+    margin-top: 50px;
+}
+
 @media (max-width: 900px) {
 
     h1 {
